@@ -22,6 +22,9 @@ SDL_Rect rect_background,rect_character;
 int sumar(int a,int b){
     return a+b;
 }
+double resta(int a , int b){
+return a-b;
+}
 class Tile
 {
 public:
