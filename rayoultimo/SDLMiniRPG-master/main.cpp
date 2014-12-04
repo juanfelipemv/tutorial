@@ -105,7 +105,7 @@ int main( int argc, char* args[] )
     rect_character.w = w;
     rect_character.h = h;
 
-
+    int cont = 0;
     list<Personaje*>personajes;
     personajes.push_back(new PersonajeJugador (0,180,renderer,&personajes));
     personajes.push_back(new NPC (50,50,renderer,&personajes));
