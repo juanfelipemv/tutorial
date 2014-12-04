@@ -623,3 +623,36 @@
 1417197720 source:c:\users\juan felipe\desktop\codeblock proyects\rayoultimo\sdlminirpg-master\personajejugador.cpp
 	"PersonajeJugador.h"
 
+1417714895 source:/home/darkwavve/Documentos/Test/rayoultimo/SDLMiniRPG-master/main.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+	<list>
+	<vector>
+	<map>
+	<fstream>
+	"PersonajeJugador.h"
+	"NPC.h"
+	<stdlib.h>
+
+1417714895 /home/darkwavve/Documentos/Test/rayoultimo/SDLMiniRPG-master/PersonajeJugador.h
+	"Personaje.h"
+
+1417714895 /home/darkwavve/Documentos/Test/rayoultimo/SDLMiniRPG-master/Personaje.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+	<list>
+
+1417714895 /home/darkwavve/Documentos/Test/rayoultimo/SDLMiniRPG-master/NPC.h
+	"Personaje.h"
+
+1417714895 source:/home/darkwavve/Documentos/Test/rayoultimo/SDLMiniRPG-master/NPC.cpp
+	"NPC.h"
+
+1417714895 source:/home/darkwavve/Documentos/Test/rayoultimo/SDLMiniRPG-master/Personaje.cpp
+	"Personaje.h"
+
+1417714895 source:/home/darkwavve/Documentos/Test/rayoultimo/SDLMiniRPG-master/PersonajeJugador.cpp
+	"PersonajeJugador.h"
+
