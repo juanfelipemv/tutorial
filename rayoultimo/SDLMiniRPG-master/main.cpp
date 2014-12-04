@@ -18,6 +18,10 @@ SDL_Event Event;
 SDL_Texture *background,*character;
 SDL_Rect rect_background,rect_character;
 
+
+int sumar(int a,int b){
+    return a+b;
+}
 class Tile
 {
 public:
